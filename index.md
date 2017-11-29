@@ -2,9 +2,9 @@
 layout: default
 ---
 
-
+<div>
 <img src="/images/avatar.jpg" alt="avatar" style="width: 100px;"/>
-
+</div>
 
 
 * [Academic CV with publications](docs/GiacomoVianello_Nov2017.pdf)
