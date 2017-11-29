@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="images/avatar.jpg" alt="avatar" style="width: 100px;"/>
+<img src="/images/avatar.jpg" alt="avatar" style="width: 100px;"/>
 
 
 
