@@ -1,1 +1,17 @@
-theme: jekyll-theme-leap-day
+# Site settings
+title: Giacomo Vianello
+email: giacomov@stanford.edu
+description: > # this means to ignore newlines until "baseurl:"
+  My personal website.
+ 
+baseurl: "/pages/" # the subpath of your site, e.g. /blog/
+url: "https://giacomov.github.io" # the base hostname & protocol for your site
+github_username:  giacomov
+permalink: /:title/ #/blog/:year/:month/:title.html
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+# Build settings
+markdown: kramdown
+#theme: jekyll-theme-tactile
+theme: minima
