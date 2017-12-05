@@ -13,5 +13,6 @@ gems:
   - jekyll-feed
 # Build settings
 markdown: kramdown
+mathjax: true
 #theme: jekyll-theme-tactile
 theme: minima
