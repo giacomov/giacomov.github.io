@@ -9,7 +9,7 @@ The full dataset can be downloaded [here](https://github.com/adammoss/supernovae
 
 I decided to play with the same dataset and use a Neural Network classificator.
 
-As always in ML, the data require some massaging. There are observations in multiple filters (g,r,i,z) at different epochs. I interpolated these light curves on a regular time grid for each filter, and then performed a [continuous wavelet transform](https://en.wikipedia.org/wiki/Continuous_wavelet_transform) on each interpolation. The coefficients of the wavelet transform for all the filters are the features that I am going to use for the NN.
+As always in ML, the data require some massaging. There are observations in multiple filters (g, r, i, z) at different epochs. I interpolated these light curves on a regular time grid for each filter and then performed a [continuous wavelet transform](https://en.wikipedia.org/wiki/Continuous_wavelet_transform) on each interpolation. The coefficients of the wavelet transform for all the filters are the features that I am going to use for the NN.
 
 Also, in this exercise I only try to classify the SN in the three major classes: I(a), II and Ibc. I neglect the subclasses.
 
@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 
 ## Read data set and pre-filter
 
-We read the DataFrame and select the subsample with known type which we will use for training and cross-validation.
+We read the DataFrame which contains the subsample with known type which we will use for training and cross-validation. The HDF5 file can be downloaded from [here](https://data.world/giacomov/sn-classification-challenge-wavelets).
 
 
 ```python
