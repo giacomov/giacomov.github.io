@@ -184,7 +184,7 @@ import keras.utils
 
 Now let's build our NN. Choosing the network architecture is more an art than a science, and in order to obtain good results we need to try different solutions and see which one performs better. With a slight misuse of jargon, I will call "hyperparameters" all the choices (number of layers in the network, numbers of neurons, regularization technique and parameters...). The optimization of hyperparameters is inherently [dangerous](https://en.wikipedia.org/wiki/Overfitting) if done wrong. In particular, we should never use the test set during the hyperparameter optimization. Instead, usually we would use a cross-validation dataset, which is a split taken from the training set (not the test set), for testing our choices and optimize the hyperparameters and then run the result on the test set to measure performances.
 
-However, since the dataset in this case is not very large, I prefer to use (stratified) k-fold cross-validation. It works like this: the training dataset is divided in $k_i$ equally-sized splits, with $i=0..k-1$. For each one of $$k$$ iterations, the $k_i$ split is used as cross-validation dataset and the union of the other k-1 splits as traning set, and the performance of the network evaluated. At the end, the performance is averaged over the k iterations. The target of the optimization of the hyperparameters is the averaged performance, so that the risk of overfitting a particular cross validation dataset is reduced.
+However, since the dataset in this case is not very large, I prefer to use (stratified) k-fold cross-validation. It works like this: the training dataset is divided in \\(k_i\\) equally-sized splits, with $i=0..k-1$. For each one of \\(k\\) iterations, the \\(k_i\\) split is used as cross-validation dataset and the union of the other k-1 splits as traning set, and the performance of the network evaluated. At the end, the performance is averaged over the k iterations. The target of the optimization of the hyperparameters is the averaged performance, so that the risk of overfitting a particular cross validation dataset is reduced.
 
 I already did this tiresome procedure and found a good model. However, the good news is that results don't vary too much for a wide range of choices. After my experiments, I get nice results with 2 hidden layers of 70 units each with a rectifier activation function (plus of course the output layer, in which I use the softmax activation so I can interpret the output as a probability of association). I also use L2 regularization to avoid the disproportionate weighting of some features (see [here](http://cs231n.github.io/neural-networks-2/#reg) for a nice introduction). There is probably space for some more hyperparameters optimization, but this is quite good already.
 
@@ -401,7 +401,7 @@ class ClassifierFactory(object):
 
 ### Train
 
-Before repeating the training/evaluation $k$ times, let's do it manually once first to make sure everything works as expected. We can get the classifier and train it using the factory we have built above. But first we need a cross-validation sample (during k-fold cross-validation this will be one of the $k$ splits):
+Before repeating the training/evaluation \\(k\\) times, let's do it manually once first to make sure everything works as expected. We can get the classifier and train it using the factory we have built above. But first we need a cross-validation sample (during k-fold cross-validation this will be one of the \\(k\\) splits):
 
 
 ```python
@@ -540,7 +540,7 @@ for i, (train_idx, cv_idx) in enumerate(skfold.split(X, Y)):
     9 done
 
 
-Let's see how the accuracy varies across the $k$ iterations:
+Let's see how the accuracy varies across the \\(k\\) iterations:
 
 
 ```python
