@@ -1,5 +1,9 @@
 # Posts
 
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
