@@ -5,7 +5,7 @@ I recently joined the [LSST](https://www.lsst.org/) Science Collaboration, and I
 
 There are several papers in the literature using that dataset, like [this one](https://arxiv.org/abs/1606.07442) and [this one](https://arxiv.org/abs/1603.00882).
 
-The full dataset can be downloaded [here](https://github.com/adammoss/supernovae/blob/master/data/SIMGEN_PUBLIC_DES.tar.gz), and contains over 20 thousands supernovae observations.
+The full dataset can be downloaded [here](https://github.com/adammoss/supernovae/blob/master/data/SIMGEN_PUBLIC_DES.tar.gz), and contains over 20 thousand supernovae observations.
 
 I decided to play with the same dataset and use a Neural Network classificator.
 
