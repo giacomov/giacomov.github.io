@@ -167,7 +167,7 @@ However, since the dataset in this case is not huge, I prefer to use (stratified
 
 I already did this tiresome procedure and found an optimal architecture. However, the good news is that results don't vary too much for a wide range of choices. After my experiments, I get nice results with 2 hidden layers of 70 units each with a rectifier activation function (plus of course the output layer, in which I use the softmax activation so I can interpret the output as a probability of association). I also use L2 regularization to avoid the disproportionate weighting of some features (see [here](http://cs231n.github.io/neural-networks-2/#reg) for a nice introduction). There is probably space for some more hyperparameters optimization, but this is quite good already.
 
-If you want to experiment, this is the setup. First we define a function that returns a trained network (and other things). The network is defined inside the function, so if you want to try other architerctures/hyper-parameters you need to change things in here:
+If you want to experiment, this is the setup. First we define a factory class that can be used to setup and get a trained network (and other things). The network is defined inside the setup `_get_network` method, so if you want to try other architerctures/hyper-parameters you need to change things in there:
 
 
 ```python
@@ -375,19 +375,19 @@ Let's also have a look at our network. The plot is not super nice (what's up wit
 
 
 ```python
-from IPython.display import SVG
+from IPython.display import Image
 from keras.utils.vis_utils import model_to_dot
 
 dot = model_to_dot(classifier, show_layer_names=True, show_shapes=True,
                  rankdir='TB')
 
-SVG(dot.create_svg())
+Image(dot.create_png())
 ```
 
 
 
 
-![svg](output_19_0.svg)
+![png](output_19_0.png)
 
 
 
