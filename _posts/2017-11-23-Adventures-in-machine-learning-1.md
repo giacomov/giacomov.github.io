@@ -387,7 +387,7 @@ Image(dot.create_png())
 
 
 
-![png](output_19_0.png)
+![png](https://giacomov.github.io/images/output_19_0.png)
 
 
 
