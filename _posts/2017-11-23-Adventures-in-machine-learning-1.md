@@ -387,7 +387,7 @@ Image(dot.create_png())
 
 
 
-![png](https://giacomov.github.io/images/output_19_0.png)
+![png](output_19_0.png)
 
 
 
@@ -536,19 +536,15 @@ factory.set_training_set(X_t, Y_t)
 # We do not use a cross-validation set here
 factory.set_cross_validation_set(None, None)
 
-classifier, hist, label_encoder = factory.train_and_get(n_epochs=350, quiet=True)
+classifier, hist, label_encoder = factory.train_and_get(n_epochs=300, quiet=True)
 ```
 
     No cross-validation used
 
 
-    /home/giacomov/miniconda2/envs/tensorflow/lib/python2.7/site-packages/keras/callbacks.py:402: RuntimeWarning: Can save best model only with val_acc available, skipping.
-      'skipping.' % (self.monitor), RuntimeWarning)
-
-
 ### Measure performance
 
-Now that we have trained the classifier, we can evaluate its performance on the cross-validation set that we did not use for training. Of course this will give the same results that can be seen from the training history and the plot above, but in a more explicit way:
+Now that we have trained the classifier, we can evaluate its performance on the cross-validation set that we did not use for training:
 
 
 ```python
