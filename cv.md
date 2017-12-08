@@ -1,0 +1,1699 @@
+<div id="main">
+
+<span class="c">Giacomo</span> Vianello {#title}
+=======================================
+
+<div class="basic-info section">
+
+Contact {#contact .title}
+-------
+
+<div class="set">
+
+<span class="value"> 452 Lomita Mall\
+Stanford, CA 94305-4085\
+United States </span>
+
+<div class="r">
+
+E-mail<span class="colon">:</span> <span
+class="value">giacomov@stanford.edu</span>
+
+Website<span class="colon">:</span> <span
+class="value">giacomov.github.io</span>
+
+Phone<span class="colon">:</span> <span class="value">(650) 283
+1205</span>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-education">
+
+Education {#education .title}
+---------
+
+<div class="set">
+
+<div class="item">
+
+### <span class="course l">Post-doctoral Scholar</span> <span class="date r">October 2012 — October 2014</span>
+
+<div class="clear">
+
+</div>
+
+<span class="school">Stanford University</span>
+<div class="info">
+
+Supervisor: Professor Peter F. Michelson, Luke Blossom Professor in the
+School of Humanities and Sciences and Physics Dept. Chair, Stanford
+University, Fermi/LAT Principal Investigator
+
+</div>
+
+<span class="clear"> </span>
+
+</div>
+
+<div class="item">
+
+### <span class="course l">Post-doctoral Scholar</span> <span class="date r">January 2010 — October 2012</span>
+
+<div class="clear">
+
+</div>
+
+<span class="school">Consorzio Interuniversitario per la Fisica Spaziale
+(CIFS) / Stanford Linear Acceleration Center</span>
+<div class="info">
+
+Supervisor: Dr. Patrizia Caraveo, Director of IASF-Milano, part of the
+National Institute of Astrophysics (INAF), Italy
+
+</div>
+
+<span class="clear"> </span>
+
+</div>
+
+<div class="item">
+
+### <span class="course l">PhD in Astronomy and Astrophysics</span> <span class="date r"> — October 2009</span>
+
+<div class="clear">
+
+</div>
+
+<span class="school">Universita' Degli Studi dell'Insubria, Italy</span>
+<div class="info">
+
+<span style="color:#000000;"><span>Thesis:</span></span><span
+style="color:#000000;"><span>*“Gamma-ray and X-ray observations of GRBs:
+the INTEGRAL/ISGRI sample and dust scattering expanding
+rings”*</span></span>
+
+<span>Supervisor: Dott. Sandro Mereghetti (IASF-Milano)</span>
+
+<span>Tutor: Dott. Gabriele Ghisellini (OAB-Brera)</span>
+
+\
+
+</div>
+
+<span class="clear"> </span>
+
+</div>
+
+<div class="item">
+
+### <span class="course l">Corso di laurea in Fisica (MS in Physics)</span> <span class="date r"> — September 2006</span>
+
+<div class="clear">
+
+</div>
+
+<span class="school">Universita' Degli Studi di Milano, Italy</span>
+<div class="info">
+
+<span>Thesis: "</span>*Study of dust scattering rings around Gamma-Ray
+Bursts using the X-Ray satellites Swift and XMM-Newton*<span>"</span>
+
+<span>Supervisor: Dott. Sandro Mereghetti (IASF-Milano)</span>
+
+<span>Internal Supervisor: Prof. Pierre Pizzochero (Università Degli
+Studi di Milano)</span>
+
+</div>
+
+<span class="clear"> </span>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-work">
+
+Research experience {#research-experience .title}
+-------------------
+
+<div class="set">
+
+<div class="item">
+
+### <span class="company l">Stanford University</span> <span class="date r">October 2014 — Present</span>
+
+<div class="clear">
+
+</div>
+
+<span class="job_title">Research Scientist</span>
+<div class="info">
+
+<span>Accomplishments and duties during my work at SLAC and at Stanford
+first as a PostDoc then as Research Scientist:\
+</span>
+-   <span><span>Search and characterization of transients in
+    astronomical data: designed and implemented new methods for the
+    </span></span>search of transients in optical (LSST), gamma-ray
+    (Fermi Gamma-ray Space Telescope) and X-ray (XMM-Newton and Chandra)
+    data
+    -   <span><span>doubled the number of Gamma-Ray Bursts detected by
+        Fermi</span></span>
+    -   <span><span>found several hundred new transients in Chandra and
+        XMM-Newton data</span></span>
+    -   <span><span>developed a new promising transient-finding
+        algorithm for LSST competitive with image-subtraction, but
+        substantially simpler to use</span></span>
+    -   <span><span>developed and implemented an innovative Bayesian
+        method for the search of Gravitational Waves counterparts in
+        Fermi data, used by the Fermi collaboration</span></span>
+-   Authored several scientific papers on GRBs and electromagnetic
+    counterparts to Gravitational Waves
+-   Multi-wavelength studies with Fermi and HAWC:
+    -   Owner and coordinator of the innovative open-source effort 3ML
+        (the Multi-Mission Maximum Likelihood framework):
+        https://github.com/giacomov/3ML
+-   <span>Coordinator of the GRB Science Group within the Fermi
+    collaboration (2011-2013)</span>
+-   Responsible for the writing and maintenance of the attitude tracking
+    software for the real-time data-processing pipeline for the LAT
+    Instrument Scientific Operation Center (ISOC)
+-   Write scientific software as part of the official NASA software
+    "Fermi Science Tools"
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1448318683035">
+
+Professional development {#professional-development .title}
+------------------------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   "Machine learning" by Andrew Ng, Stanford University, on Coursera
+-   Caltech/JPL "Big Data Analytics" online summer school, 2 weeks
+    program, selected among many application as real-time student, with
+    the possibility of interaction with the teachers (
+    https://www.coursera.org/course/bigdataschool )
+-   <span>"Introduction to Deep Learning on GPUs", Stanford, October
+    7th, 2015</span>
+-   <span>"GPU Computing Symposium and Workshop", Stanford, October
+    25th, 2013</span>
+-   <span>"Udacity CS344: Intro to Parallel Programming" on CUDA and GPU
+    programming (
+    https://www.udacity.com/course/intro-to-parallel-programming--cs344 )</span>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-interests">
+
+Research interests {#research-interests .title}
+------------------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   <span>Searches for transients in astronomical data: gamma-ray,
+    x-ray, optical</span>
+-   <span>Gamma-ray Bursts (GRBs): spectral and temporal properties,
+    population studies, modeling</span>
+-   <span>GRBs as electromagnetic counterparts to Gravitational Wave
+    events</span>
+-   <span>Multi-wavelength and multi-messenger astrophysics</span>
+-   <span>X-rays dust scattering: dust models, X-ray halos, X-ray
+    rings</span>
+-   <span>Astrophysics instrumentation</span>
+-   <span>Data analysis methods and software: Bayesian methods, machine
+    learning, Maximum Likelihood, numerical methods</span>
+-   <span>Statistical methods for astrophysics</span>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1380656511525">
+
+Management experience {#management-experience .title}
+---------------------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   <span>Coordinator of the GRB Science Group of the Fermi/LAT
+    Collaboration (Jan. 2012 - Aug. 2013), an international group of 50
+    members of the Fermi collaboration working on Gamma-Ray
+    Bursts</span>
+-   <span>Lead developer of the Multi-Mission Maximum Likelihood
+    framework (threeml.stanford.edu), a software process for
+    multi-wavelength modeling of astrophysical sources</span>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1408990055158">
+
+Awards {#awards .title}
+------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+<div>
+
+<span>Principal Investigator on the following approved research
+programs:</span>
+
+</div>
+
+-   "The LAT Transient Factory: unveiling the nature of LAT GRBs and
+    short-duration transients": Fermi Guest Investigator Program (Cycle
+    10), proposal number 101237
+-   <span>"The LAT Transient Factory: the first 130 LAT GRBs and a blind
+    search for short-duration transients", Fermi Guest Investigator
+    Program (Cycle 9), proposal number 91237 </span>
+-   <span>"Detecting short X-ray transients in the Chandra archive",
+    Chandra Science Program (Cycle 16), proposal number 16620799</span>
+-   <span>"Detecting high-energy GRBs and probing their time-domain
+    properties": Fermi Guest Investigator Program (Cycle 7), proposal
+    number 71209 </span>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1436054622475">
+
+Memberships {#memberships .title}
+-----------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   <span>Member of the Fermi Large Area Telescope
+    collaboration (http://fermi.gsfc.nasa.gov/)</span>
+-   <span>Member of the High-Altitude Water Cerenkov
+    telescope (http://www.hawc-observatory.org/)</span>
+-   <span><span>Member of the Transients and Variable Stars Science
+    Collaboration within the LSST collaboration</span></span>
+-   <span><span>Member of the EXtraS project for the analysis of
+    archival XMM-Newton data (http://www.extras-fp7.eu/)</span></span>
+-   <span><span>Leader and member of the Multi-Mission Maximum
+    Likelihood framework team (threeml.stanford.edu)</span></span>
+-   <span><span>Member of the Scientific Committee of the "International
+    Center for Astronomical and Remote-sensing Observations" (ICARO):
+    </span></span><span><span>http://www.iusspavia.it/eng/centri.php?id=31&sez=5\#.VlN1JLerRhE</span></span>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1449544004064">
+
+Referee services and committee work {#referee-services-and-committee-work .title}
+-----------------------------------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   <span>I perform referee services for Nature Physics, the
+    Astrophysical Journal, and Astronomy and Astrophysics</span>
+-   <span>I served on review panels for the Czech Science Foundation and
+    the South African National Science Foundation</span>
+-   Organizer and chair of the session "Understanding Gamma-Ray Bursts
+    Emission Mechanism in the Fermi Era" at the 13th Divisional Meeting
+    of the High-Energy Astrophysics Division of the American
+    Astronomical Society, 7-11 Apr. 2013, Monterey, CA (US)
+-   Member of the LOC for the Fermi/HAWC/VERITAS and Fermi/VIRGO/LIGO
+    workshops cycles
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1373592283558">
+
+Teaching experience and mentoring {#teaching-experience-and-mentoring .title}
+---------------------------------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   Teaching Assistant for the Lab. "Programming Languages 1",
+    2001-2004, Universita' Degli Studi di Milano, Italy:
+    -   in the first year I conducted hands-on exercises, in the 2nd and
+        3rd year I designed and led hands-on exercises
+-   Teacher at the 2016 Fermi Summer School, (Lewes, Delaware, Tuesday,
+    May 31 - Friday, June 10, 2016): basic of Maximum Likelihood
+    analysis, searches, and studies of Gamma-Ray Bursts with Fermi/LAT
+-   Teacher for a 2-weeks-long refresher class for Freshmen in college
+    on general topics in logic and math, 2001-2005, Universita' Degli
+    Studi di Milano, Italy: I designed and taught the class along with
+    other students
+-   Teacher of refresher courses for high-school teachers in Italy, on
+    the subject "The scientific method: theory and application in
+    teaching physics and mathematics", Milan area, 2005-2009
+-   Mentor for the Science Undergraduate Laboratory Internship Program
+    (SULI), Summer 2015, 2016 and 2017:
+    -   I mentored 4 undergraduate students on technical projects
+        regarding gamma-ray, x-ray, and optical astronomy, focusing on
+        the search and characterization of transients
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1373593226092">
+
+Skills {#skills .title}
+------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   Statistical methods for astrophysics, expert
+-   Programming (Python, C++, C, IDL, R) and parallel programming (in
+    Python, C++, and CUDA for GPU), expert
+    ([http://github.com/giacomov]())
+-   Distributed computing (LSF, Torque, ipyparallel), expert
+-   MySQL and MongoDB: expert
+-   Data mining and data exploration, expert
+-   Modern tools for software design and deployment (GitHub, continuous
+    integration, test-driven development): expert
+-   Docker container technology: expert
+-   Conda package manager: expert
+-   Web technologies (HTML, CSS, JavaScript,), good knowledge
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1373594598615">
+
+Invited talks {#invited-talks .title}
+-------------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+<div>
+
+<div>
+
+<div>
+
+<div>
+
+I participated in many international conferences. This is a list
+containing **only the conferences/workshops/seminars which I have been
+invited to**:
+
+</div>
+
+1.  <span>**Conference:**</span> 13th Marcel Grossmann Meeting on Recent
+    Developments in Theoretical and Experimental General Relativity,
+    Gravitation, and Relativistic Field Theory, 1-7 Jul. 2012, Stockholm
+    (Sweden)<span>\
+    </span><span>**Presentation title:**</span> <span>The first
+    Fermi-LAT GRB Catalog\
+    </span><span>**Conference Website:**</span> http://www.icra.it/mg
+2.  **<span>Conference:</span>** <span>Fourth International Fermi
+    Symposium, 28 Oct. - 2 Nov. 2012, Monterey, CA (US)\
+    </span><span>**Presentation title:**</span> <span>Observations of
+    GRBs with Fermi\
+    </span><span>**Conference Website:**</span>
+    <span>[http://fermi.gsfc.nasa.gov/science/mtgs/symposia/2012/]()</span>
+3.  **Conference**: 10th Rencontre du Vietnam (Very High Energy
+    Phenomena in the Universe), 3 - 9 Aug. 2014, Qui Nhon, Vietnam\
+    **Presentation title**: Fermi/LAT observations of Gamma-Ray Bursts\
+    **Conference Website**: http://vietnam.in2p3.fr/2014/vhepu/
+4.  <span>**Conference:** </span>3rd Annual Conference on High Energy
+    Astrophysics in Southern Africa (HEASA 2015), <span>18-20 June 2015,
+    University of Johannesburg, South Africa\
+    **Presentation title:** Observation of Gamma-Ray Bursts and short
+    duration transients with the Fermi Large Area Telescope\
+    **Conference website:**
+    http://physics.uj.ac.za/wiki/HEASA2015/Site/InvitedSpeakers</span>
+5.  <span>**Invited seminar:** Los Alamos National Labs, June 11th,
+    2015\
+    </span>**Title:** ¨<span style="color:#222222;"><span
+    style="background-color:rgb(255,255,255);">A scale-agnostic,
+    instrument-agnostic algorithm to detect transients in
+    photon-counting experiments, and the Multi-Mission Maximum
+    Likelihood framework (3ML)</span></span>¨\
+    **Host:** Patrick Younk (pwyounk@lanl.gov)
+6.  **Invited seminar:** IASF-Milano, December 16th, 2014\
+    **Title:** ¨Searching for transients in Fermi/LAT data: the LAT
+    Transient Factory¨\
+    **Host:** Andrea Tiengo (andrea.tiengo@iusspavia.it)
+7.  **Invited seminar:** INFN-Trieste, February 7th, 2014\
+    **Title:** "Extreme cosmic explosions: Gamma-Ray Bursts, from the
+    discovery to recent breakthroughs"\
+    **Host:** Francesco Longo (francesco.longo@ts.infn.it)
+8.  <span><span>**Invited seminar:** Michigan Technological
+    University, Nov. 2nd, 2015</span></span>\
+    <span><span>**Title:** Multi-Wavelength and Multi-Messenger
+    Observations for Astronomy</span></span>\
+    <span><span>**Host:** Prof. Petra
+    Huentemeyer (petra@mtu.edu)</span></span>\
+    <span><span>https://events.mtu.edu/event/epssi\_seminar\_multi-wavelength\_and\_multi-messenger\_observations\_for\_astronomy\#.VlOMXLerRhE</span></span>
+9.  <div>
+
+    **Workshop:**<span><span> 1st Fermi-LIGO-VIRGO workshop, March 22-24
+    2013, George Washington University, Washington, DC</span></span>
+
+    </div>
+
+    **Presentation title:**<span><span> Fermi/LAT
+    hands-on</span></span>\
+    **Workshop website:**<span><span>
+    http://www.shawhans.us/grb-gw/</span></span>
+10. **Workshop:** 2nd Fermi-LIGO workshop, March 14-15 2015, Pasadena,
+    CA\
+    **Presentation title:** Fermi/LAT mission and capabilities\
+    **Workshop website:**
+    http://www.ligo.caltech.edu/\~jkanner/ligo-fermi/
+11. **Workshop:** Fermi-VERITAS-HAWC, October 8-9 2014, Madison WI\
+    **Presentation title:** 3ML + HAWC\
+    **Workshop website:** http://meetings.wipac.wisc.edu/hawc2014/
+12. **Workshop:** Fermi/HAWC/VERITAS, February 11-12 2014, University of
+    Maryland, College Park, MD\
+    **Presentation title:** LAT hands-on\
+    **Workshop website:**
+    https://confluence.slac.stanford.edu/pages/viewpage.action?pageId=158044658
+13. **Workshop:** High-energy gamma-ray astrophysics: from solar
+    activity to black holes\
+    **Presentation title:** Gamma-ray bursts at high energy\
+    **Workshop website:**
+    http://www.sexten-cfa.eu/en/high-energy-gamma-ray-astrophysics-from-solar-activity-to-black-holes
+14. **Workshop:** Likelihood analysis with HAWC, 17-20 November 2015\
+    **Presentation title:** The Multi-Mission Maximum Likelihood
+    framework\
+    **Host:** Magda Gonzalez (magda@astro.unam.mx)
+15. <span><span><span style="font-weight:bold;">School:</span> Fermi
+    Summer School 2016, Lewes (Delaware), US, </span></span><span
+    style="background-color:rgb(255,255,255);"><span
+    style="color:rgb(42,42,42);">Tuesday, May 31 - Friday, June 10,
+    2016\
+    "Basics of Maximum Likelihood", "Gamma-Ray Bursts and transients in
+    the LAT"\
+    <span style="font-weight:bold;">Website:</span> </span><span
+    style="color:#2a2a2a;"><span>https://confluence.slac.stanford.edu/display/LSP/Fermi+Summer+School+2016</span></span></span>
+16. <span style="background-color:rgb(255,255,255);"><span
+    style="color:#2a2a2a;"><span><span
+    style="font-weight:bold;">Conference</span>: SciNeGHE 2016, 18-21
+    October, Pisa, Italy\
+    <span style="font-weight:bold;">Presentation title:</span>
+    "Gamma-Ray Bursts as multi-messenger sources"\
+    <span style="font-weight:bold;">Website:
+    </span></span></span></span><span
+    style="color:#2a2a2a;"><span>https://agenda.infn.it/conferenceDisplay.py?ovw=True&confId=11102</span></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1506456617622">
+
+Press {#press .title}
+-----
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+1.  "Supernova blast emitted record burst of gamma rays", Los Angeles
+    Times, November 2013
+    (http://articles.latimes.com/2013/nov/21/science/la- sci-
+    sn- supernova-gamma-ray-burst-20131120)
+2.  "Quel mostruoso lampo gamma che sfida gli astrofisici. È il lato
+    violento dell'Universo" (<span style="font-style:italic;">the
+    monster gamma-ray burst that challenges astrophysicists</span>),
+    Italian national newspaper La Repubblica, November
+    2013 (http://www.repubblica.it/scienze/2013/11/22/news/quel\_lampo\_gamma\_che\_sfida\_gli\_scienziati-71619452/)
+3.  "NASA's Fermi, Swift See 'Shockingly Bright' Burst", NASA website,
+    May
+    2013 (https://www.nasa.gov/topics/universe/features/shocking-burst.html)
+4.  "The rise of LIGO’s space-studying super-team", Symmetry magazine,
+    June 27th, 2017
+    http://www.symmetrymagazine.org/article/the-rise-of-ligos-space-studying-super-team
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1449257439423">
+
+Public outreach and cultural activity {#public-outreach-and-cultural-activity .title}
+-------------------------------------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+1.  **Event:** "Tooning the extreme cosmos", November 10th 2015, **NASA
+    Headquarters**, Washington DC\
+    **Presentation title:** "Gamma-ray Bursts"\
+    **Host:** Roopesh Ojha (Roopesh.Ojha@nasa.gov)\
+    **Website:** http://fermi.gsfc.nasa.gov/science/mtgs/tooning/
+2.  **Founding member and teacher** of the Association Research, Nature,
+    Technology ("Ricerca, Natura, Tecnologia") for promoting scientific
+    culture in Italian schools, 2005-2009. My role involved preparing
+    curricula and organizing refresher courses for teachers, as well as
+    short classes (one-day to two-weeks long) for students, on Astronomy
+    and Physics.
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-references">
+
+References {#references .title}
+----------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   Peter Michelson, Director, HEPL (Stanford University),
+    peterm@stanford.edu
+-   Julie Mc Enery, Fermi Project Scientist, GSFC,
+    julie.e.mcenery@nasa.gov
+-   Petra Huentemeyer, Associate Professor (Physics), Michigan Tech,
+    petra@mtu.edu
+-   Andrea Tiengo, Researcher at Centre for Post-Graduate Training and
+    Research in Earthquake Engineering and Engineering Seismology,
+    IUSS-Pavia, Pavia, Italy, andrea.tiengo@iusspavia.it
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1373593195261">
+
+Languages {#languages .title}
+---------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   <span>Italian, native speaker</span>
+-   <span>English, fluent</span>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-qualifications">
+
+Refereed publications {#refereed-publications .title}
+---------------------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+<div>
+
+**NOTE**: I am a member of the Fermi/LAT collaboration since 2010.
+Important papers in the Fermi/LAT collaboration are recognized by the
+"Category I" status and are signed by the entire collaboration in
+alphabetical order. The people who lead the work are recognized with the
+"Contact Author" designation. There are at most 4 contact authors for
+each paper. I am also a member of the HAWC collaboration, which has a
+similar policy: important papers are signed by the entire collaboration
+in alphabetical order, although there is no concept of contact authors.
+
+</div>
+
+<div>
+
+\
+
+</div>
+
+<div>
+
+<span><span>Here I present the list of papers for which <span>I am first
+author</span> and collaboration papers in which I had a
+<span>fundamental leading role</span> (explained for each paper). I
+order them by publication date (most recent first).</span></span>
+
+</div>
+
+<div>
+
+1.  A. U. Abeyesekara et al., <span style="font-style:italic;">Extended
+    gamma-ray sources around pulsars constrain the origin of the
+    positron flux at Earth</span>, Science 358, 2017.\
+    \
+    <span style="font-style:italic;">The first major results that HAWC
+    obtained with the Multi-Mission Maximum Likelihood (3ML) framework
+    that I designed and am
+    leading (https://github.com/giacomov/3ML).</span>\
+    \
+2.  G. Vianello, N. Omodei, J. Chiang and S. Digel, <span
+    style="font-style:italic;">Searching for High-energy Gamma-ray
+    Counterparts to Gravitational-wave Sources with Fermi-LAT: A Needle
+    in a Haystack</span>., Astrophys. J.l 841, 2017.\
+    \
+3.  J. L. Racusin et al., <span style="font-style:italic;">Searching the
+    Gamma-Ray Sky for Counterparts to Gravitational Wave Sources: /Fermi
+    GBM and LAT Observations of LVT151012 and
+    GW151226</span>., Astrophys. J. 835, 2017\
+    \
+    <span style="font-style:italic;">A joint Fermi/GBM -
+    Fermi/LAT publication. I am LAT contact author for this publication.
+    I contributed a large part of the LAT sections of the paper, as well
+    as designed, implemented and executed a major part of the
+    LAT analysis.</span>\
+    \
+4.  A. Goldstein et al., <span style="font-style:italic;">Fermi
+    Observations of the LIGO Event GW170104</span>., Astrophys. J.l 846,
+    2017.\
+    \
+    <span style="font-style:italic;">A joint Fermi/GBM -
+    Fermi/LAT publication. I am LAT contact author for this publication.
+    I contributed a large part of the LAT sections of the paper, as well
+    as designed, implemented and executed a major part of the
+    LAT analysis.</span>\
+    \
+5.  R. Alfaro et al., <span style="font-style:italic;">Search for
+    Very-high-energy Emission from Gamma-Ray Bursts Using the First 18
+    Months of Data from the HAWC Gamma-Ray
+    Observatory</span>., Astrophys. J. 843, 2017\
+    \
+    <span style="font-style:italic;">A joint HAWC/LAT
+    collaboration paper. I performed the Fermi/LAT analysis as well as
+    the development of the software and the methods used to compute the
+    upper limits for GRBs using HAWC data. I am a LAT
+    contact author.</span>\
+    \
+6.  B. P. Abbott et al., <span
+    style="font-style:italic;">Multi-messenger Observations of a Binary
+    Neutron Star Merger</span>., Astrophys. J.l 848, 2017\
+    \
+    <span style="font-style:italic;">The "capstone paper" for the first
+    detection of an electromagnetic counterpart to a GW event. I
+    participated as part of the Fermi team.</span>\
+    \
+7.  M. Ackermann et al., <span style="font-style:italic;">Fermi-LAT
+    Observations of the LIGO Event GW150914</span>., Astrophys. J.l 823,
+    2016\
+    \
+    *I am a contact author. I ideated and executed one of the two
+    searches for a gamma-ray counterpart of the Gravitational Wave event
+    in the data of Fermi/LAT. I have given a major contribution to all
+    aspects of this work and contributed substantially to the
+    paper itself.*\
+    \
+8.  M. Ackermann et al., <span style="font-style:italic;">Fermi-LAT
+    Observations of the Gamma-Ray Burst GRB 130427A</span>., Science
+    343, 2014.\
+    \
+    *I am a* <span style="font-style:italic;">contact author, and I led
+    the LAT data analysis of this extraordinary GRB. I also wrote large
+    parts of the paper.</span>\
+    \
+9.  M. Ackermann et al., <span
+    style="font-style:italic;">Multiwavelength Observations of GRB
+    110731A: GeV Emission from Onset to Afterglow</span>., Astrophys. J.
+    763, 2013.\
+    \
+    <span style="font-style:italic;">I am a LAT contact author and gave
+    an essential contribution to all aspects of this work, which focuses
+    on the analysis of multi-wavelength data for the afterglow of this
+    GRB</span>\
+    \
+10. M. Ackermann et al., <span style="font-style:italic;">The First
+    Fermi-LAT Gamma-Ray Burst Catalog</span>., Astrophys. J.s 209,
+    2013.\
+    \
+    <span style="font-style:italic;">I am LAT contact author. I ideated,
+    implemented and executed the search for GRBs at low energies
+    (between 10 MeV and 100 MeV) with the LAT Low-Energy class (LLE). I
+    have given an essential contribution to the data analysis, the
+    discussion of the results, and wrote large sections of the paper.
+    </span>\
+    \
+11. G. Vianello, D. Gotz and S. Mereghetti, <span
+    style="font-style:italic;">The updated spectral catalog of INTEGRAL
+    gamma-ray bursts</span>., Astron. Astrophys. 495, 2009.\
+    \
+12. G. Vianello, A. Tiengo and S. Mereghetti, <span
+    style="font-style:italic;">Dust-scattered X-ray halos around two
+    Swift gamma-ray bursts: GRB 061019 and GRB 070129</span>., Astron.
+    Astrophys. 473, 2007.
+
+<div>
+
+Papers under revision:
+
+</div>
+
+<div>
+
+1.  <span>G. Vianello et al., "The Bright and the Slow - GRBs 100724B &
+    160509A with high-energy cutoffs at &lt;= 100MeV", arXiv:1706.01481
+    (under revision in ApJ)\
+    \
+    </span>
+2.  <span>G. Vianello, "Significance of an excess in a counting
+    experiment: assessing the impact of systematic uncertainties and the
+    case with Gaussian background" (submitted to ApJ)\
+    \
+    </span>
+3.  <span>LAT collaboration, "Fermi-LAT observations of the LIGO/Virgo
+    event GW170817", arXiv:1710.05450 (submitted to ApJ)\
+    \
+    <span style="font-style:italic;">I am LAT contact author, I
+    performed LAT analysis and wrote large sections of
+    the paper.</span></span>
+
+</div>
+
+<div>
+
+These are papers where I contributed as a co-author with analysis and
+interpretation of the data:
+
+</div>
+
+1.  F. Pintore et al., <span style="font-style:italic;">Behind the dust
+    curtain: the spectacular case of GRB 160623A</span>., Mon. Not. R.
+    Astron. Soc.ras 472, 2017.
+2.  F. Pintore et al., <span style="font-style:italic;">The effect of
+    X-ray dust scattering on a bright burst from the magnetar 1E
+    1547.0-5408</span>., Mon. Not. R. Astron. Soc.ras 467, 2017.
+3.  L. Nava et al., <span style="font-style:italic;">Constraints on the
+    bulk Lorentz factor of gamma-ray burst jets from Fermi /LAT upper
+    limits</span>., Mon. Not. R. Astron. Soc.ras 465, 2017.
+4.  B. P. Abbott et al., <span
+    style="font-style:italic;">Multi-messenger Observations of a Binary
+    Neutron Star Merger</span>., Astrophys. J.l 848, 2017.
+5.  D. Pizzocaro et al., <span style="font-style:italic;">Results
+    from DROXO. IV. EXTraS discovery of an X-ray flare from the Class I
+    protostar candidate ISO-Oph 85</span>., Astron. Astrophys.
+    587, 2016.
+6.  M. Ackermann et al., <span style="font-style:italic;">Fermi-LAT
+    Observations of the LIGO Event GW150914</span>., Astrophys. J.l
+    823, 2016.
+7.  W. T. Vestrand et al., <span style="font-style:italic;">The Bright
+    Optical Flash and Afterglow from the Gamma-Ray Burst GRB
+    130427A</span>., Science 343, 2014.
+8.  R. Preece et al., <span style="font-style:italic;">The First Pulse
+    of the Extremely Bright GRB 130427A: A Test Lab for Synchrotron
+    Shocks</span>., Science 343, 2014.
+9.  L. Nava et al., <span style="font-style:italic;">Clustering of LAT
+    light curves: a clue to the origin of high-energy emission in
+    gamma-ray bursts</span>., Mon. Not. R. Astron. Soc.ras 443, 2014.
+10. A. Maselli et al., <span style="font-style:italic;">GRB 130427A: A
+    Nearby Ordinary Monster</span>., Science 343, 2014.
+11. J. M. Burgess et al., <span style="font-style:italic;">Time-resolved
+    Analysis of Fermi Gamma-Ray Bursts with Fast- and Slow-cooled
+    Synchrotron Photon Models</span>., Astrophys. J. 784, 2014.
+12. C. Kouveliotou et al., <span style="font-style:italic;">NuSTAR
+    Observations of GRB 130427A Establish a Single Component Synchrotron
+    Afterglow Origin for the Late Optical to Multi-GeV
+    Emission</span>., Astrophys. J.l 779, 2013.
+13. S. Guiriec et al., <span style="font-style:italic;">Evidence for a
+    Photospheric Component in the Prompt Emission of the Short GRB
+    120323A and Its Effects on the GRB Hardness-Luminosity
+    Relation</span>., Astrophys. J. 770, 2013.
+14. C. Guidorzi et al., <span style="font-style:italic;">A faint optical
+    flash in dust-obscured GRB 080603A: implications for GRB prompt
+    emission mechanisms</span>., Mon. Not. R. Astron. Soc.ras 417, 2011.
+15. V. Bianchin et al., <span style="font-style:italic;">The first GRB
+    survey of the IBIS/PICsIT archive</span>., Astron. Astrophys.
+    536, 2011.
+16. A. Tiengo, G. Vianello et al., <span style="font-style:italic;">The
+    Dust-scattering X-ray Rings of the Anomalous X-ray Pulsar 1E
+    1547.0-5408</span>., Astrophys. J. 710, 2010.
+17. A. Giuliani et al., <span style="font-style:italic;">AGILE Detection
+    of Delayed Gamma-ray Emission From the Short Gamma-Ray Burst GRB
+    090510</span>., Astrophys. J.l 708, 2010.
+
+<span>\
+</span>
+
+</div>
+
+<div>
+
+<span>This is the complete list of my publications
+(<span>including</span> those reported above), including also papers
+where I gave technical contributions as part of the Fermi/LAT and HAWC
+team:</span>
+
+</div>
+
+<div>
+
+\[1\] <span><span style="font-style:normal;">S. Mereghetti, A. Tiengo
+and G. Vianello</span></span><span><span style="font-style:normal;">,
+Dust scattering X-ray expanding rings around gamma-ray bursts., Nuovo
+Cimento B Serie 121, 2006.</span></span>
+
+\[2\] <span><span style="font-style:normal;">G. Vianello, A. Tiengo and
+S. Mereghetti</span></span><span><span style="font-style:normal;">,
+Dust-scattered X-ray halos around two Swift gamma-ray bursts: GRB 061019
+and GRB 070129., Astron. Astrophys. 473, 2007.</span></span>
+
+\[3\] <span><span style="font-style:normal;">S. Mereghetti et
+al.</span></span><span><span style="font-style:normal;">, Strong Bursts
+from the Anomalous X-Ray Pulsar 1E 1547.0-5408 Observed with the
+INTEGRAL/SPI Anti-Coincidence Shield., Astrophys. J.l 696,
+2009.</span></span>
+
+\[4\] <span><span style="font-style:normal;">G. Vianello, D. Götz and S.
+Mereghetti</span></span><span><span style="font-style:normal;">, The
+updated spectral catalogue of INTEGRAL gamma-ray bursts., Astron.
+Astrophys. 495, 2009.</span></span>
+
+\[5\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Fermi Large
+Area Telescope observations of Local Group galaxies: detection of M 31
+and search for M 33., Astron. Astrophys. 523, 2010.</span></span>
+
+\[6\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Gamma-ray Emission from Magnetars with the Fermi Large Area Telescope.,
+Astrophys. J.l 725, 2010.</span></span>
+
+\[7\] <span><span style="font-style:normal;">A. Giuliani et
+al.</span></span><span><span style="font-style:normal;">, AGILE
+Detection of Delayed Gamma-ray Emission From the Short Gamma-Ray Burst
+GRB 090510., Astrophys. J.l 708, 2010.</span></span>
+
+\[8\] <span><span style="font-style:normal;">A. Tiengo et
+al.</span></span><span><span style="font-style:normal;">, The
+Dust-scattering X-ray Rings of the Anomalous X-ray Pulsar 1E
+1547.0-5408., Astrophys. J. 710, 2010.</span></span>
+
+\[9\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Observations
+of the Young Supernova Remnant RX J1713.7-3946 with the Fermi Large Area
+Telescope., Astrophys. J. 734, 2011.</span></span>
+
+\[10\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Gamma-Ray
+Flares from the Crab Nebula., Science 331, 2011.</span></span>
+
+\[11\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Fermi
+Gamma-ray Space Telescope Observations of the Gamma-ray Outburst from
+3C454.3 in November 2010., Astrophys. J.l 733, 2011.</span></span>
+
+\[12\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Discovery of
+High-energy Gamma-ray Emission from the Binary System PSR B1259-63/LS
+2883 around Periastron with Fermi., Astrophys. J.l 736,
+2011.</span></span>
+
+\[13\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Detection of
+High-energy Gamma-Ray Emission During the X-Ray Flaring Activity in GRB
+100728A., Astrophys. J.l 734, 2011.</span></span>
+
+\[14\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Fermi Large
+Area Telescope Observations of Two Gamma-Ray Emission Components from
+the Quiescent Sun., Astrophys. J. 734, 2011.</span></span>
+
+\[15\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Fermi Large
+Area Telescope Observations of Markarian 421: The Missing Piece of its
+Spectral Energy Distribution., Astrophys. J. 736, 2011.</span></span>
+
+\[16\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Constraining
+Dark Matter Models from a Combined Analysis of Milky Way Satellites with
+the Fermi Large Area Telescope., Phys. Rev. Lett. 107,
+2011.</span></span>
+
+\[17\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The
+Radio/Gamma-Ray Connection in Active Galactic Nuclei in the Era of the
+Fermi Large Area Telescope., Astrophys. J. 741, 2011.</span></span>
+
+\[18\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The Second
+Catalog of Active Galactic Nuclei Detected by the Fermi Large Area
+Telescope., Astrophys. J. 743, 2011.</span></span>
+
+\[19\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, A Cocoon of
+Freshly Accelerated Cosmic Rays Detected by Fermi in the Cygnus
+Superbubble., Science 334, 2011.</span></span>
+
+\[20\] <span><span style="font-style:normal;">M. Ajello et
+al.</span></span><span><span style="font-style:normal;">, Constraints on
+dark matter models from a Fermi LAT search for high-energy cosmic-ray
+electrons from the Sun., Phys. Rev. D 84, 2011.</span></span>
+
+\[21\] <span><span style="font-style:normal;">V. Bianchin et
+al.</span></span><span><span style="font-style:normal;">, The first GRB
+survey of the IBIS/PICsIT archive., Astron. Astrophys. 536,
+2011.</span></span>
+
+\[22\] <span><span style="font-style:normal;">E. Del Monte et
+al.</span></span><span><span style="font-style:normal;">, The
+observation of gamma ray bursts and terrestrial gamma-ray flashes with
+AGILE., Nuclear Instruments and Methods in Physics Research A 630,
+2011.</span></span>
+
+\[23\] <span><span style="font-style:normal;">P. C. C. Freire et
+al.</span></span><span><span style="font-style:normal;">, Fermi
+Detection of a Luminous Gamma-Ray Pulsar in a Globular Cluster., Science
+334, 2011.</span></span>
+
+\[24\] <span><span style="font-style:normal;">C. Guidorzi et
+al.</span></span><span><span style="font-style:normal;">, A faint
+optical flash in dust-obscured GRB 080603A: implications for GRB prompt
+emission mechanisms., Mon. Not. R. Astron. Soc.ras 417,
+2011.</span></span>
+
+\[25\] <span><span style="font-style:normal;">H.E.S.S.\~Collaboration et
+al.</span></span><span><span style="font-style:normal;">, Simultaneous
+multi-wavelength campaign on PKS 2005-489 in a high state., Astron.
+Astrophys. 533, 2011.</span></span>
+
+\[26\] <span><span style="font-style:normal;">M. L. Lister et
+al.</span></span><span><span style="font-style:normal;">, Gamma-Ray and
+Parsec-scale Jet Properties of a Complete Sample of Blazars From the
+MOJAVE Program., Astrophys. J. 742, 2011.</span></span>
+
+\[27\] <span><span style="font-style:normal;">S. Mereghetti et
+al.</span></span><span><span style="font-style:normal;">, Two magnetars:
+SGR 1627-41 and 1E 1547-5408., Advances in Space Research 47,
+2011.</span></span>
+
+\[28\] <span><span style="font-style:normal;">A. Noutsos et
+al.</span></span><span><span style="font-style:normal;">, Radio and
+Gamma-ray Constraints on the Emission Geometry and Birthplace of PSR
+J2043+2740., Astrophys. J. 728, 2011.</span></span>
+
+\[29\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Fermi
+Observations of Gamma-Ray Emission from the Moon., Astrophys. J. 758,
+2012.</span></span>
+
+\[30\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The Fermi
+Large Area Telescope on Orbit: Event Classification, Instrument Response
+Functions, and Calibration., Astrophys. J.s 203, 2012.</span></span>
+
+\[31\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Anisotropies
+in the diffuse gamma-ray background measured by the Fermi LAT., Phys.
+Rev. D 85, 2012.</span></span>
+
+\[32\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Publisher's
+Note: Anisotropies in the diffuse gamma-ray background measured by the
+Fermi LAT \[Phys. Rev. D 85, 083007 (2012)\]., Phys. Rev. D 85,
+2012.</span></span>
+
+\[33\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi LAT
+search for dark matter in gamma-ray lines and the inclusive photon
+spectrum., Phys. Rev. D 86, 2012.</span></span>
+
+\[34\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Gamma-Ray
+Observations of the Orion Molecular Clouds with the Fermi Large Area
+Telescope., Astrophys. J. 756, 2012.</span></span>
+
+\[35\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, A Statistical
+Approach to Recognizing Source Classes for Unassociated Sources in the
+First Fermi-LAT Catalog., Astrophys. J. 753, 2012.</span></span>
+
+\[36\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, In-flight
+measurement of the absolute energy scale of the Fermi Large Area
+Telescope., Astroparticle Physics 35, 2012.</span></span>
+
+\[37\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Measurement of
+Separate Cosmic-Ray Electron and Positron Spectra with the Fermi Large
+Area Telescope., Phys. Rev. Lett. 108, 2012.</span></span>
+
+\[38\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi
+Detection of Gamma-Ray Emission from the M2 Soft X-Ray Flare on 2010
+June 12., Astrophys. J. 745, 2012.</span></span>
+
+\[39\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi Large
+Area Telescope Study of Cosmic Rays and the Interstellar Medium in
+nearby Molecular Clouds., Astrophys. J. 755, 2012.</span></span>
+
+\[40\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Gamma-ray Emission from X-Ray-selected Seyfert Galaxies with Fermi-LAT.,
+Astrophys. J. 747, 2012.</span></span>
+
+\[41\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The cosmic-ray
+and gas content of the Cygnus region as measured in Gamma-rays by the
+Fermi Large Area Telescope., Astron. Astrophys. 538, 2012.</span></span>
+
+\[42\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, GeV
+Observations of Star-forming Galaxies with the Fermi Large Area
+Telescope., Astrophys. J. 755, 2012.</span></span>
+
+\[43\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The Imprint of
+the Extragalactic Background Light in the Gamma-Ray Spectra of Blazars.,
+Science 338, 2012.</span></span>
+
+\[44\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi-LAT
+Observations of the Diffuse Gamma-Ray Emission: Implications for Cosmic
+Rays and the Interstellar Medium., Astrophys. J. 750,
+2012.</span></span>
+
+\[45\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Constraints on
+the Galactic Halo Dark Matter from Fermi-LAT Diffuse Measurements.,
+Astrophys. J. 761, 2012.</span></span>
+
+\[46\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">,
+Multi-wavelength Observations of Blazar AO 0235+164 in the 2008-2009
+Flaring State., Astrophys. J. 751, 2012.</span></span>
+
+\[47\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Dark Matter Satellites Using Fermi-LAT., Astrophys. J. 747,
+2012.</span></span>
+
+\[48\] <span><span style="font-style:normal;">M. Ajello et
+al.</span></span><span><span style="font-style:normal;">, Fermi Large
+Area Telescope Observations of the Supernova Remnant G8.7-0.1.,
+Astrophys. J. 744, 2012.</span></span>
+
+\[49\] <span><span style="font-style:normal;">M. Axelsson et
+al.</span></span><span><span style="font-style:normal;">, GRB110721A: An
+Extreme Peak Energy and Signatures of the Photosphere., Astrophys. J.l
+757, 2012.</span></span>
+
+\[50\] <span><span style="font-style:normal;">Fermi Large Area Telescope
+Team et al.</span></span><span><span style="font-style:normal;">,
+Constraining the High-energy Emission from Gamma-Ray Bursts with Fermi.,
+Astrophys. J. 754, 2012.</span></span>
+
+\[51\] <span><span style="font-style:normal;">Fermi LAT Collaboration et
+al.</span></span><span><span style="font-style:normal;">, Periodic
+Emission from the Gamma-Ray Binary 1FGL J1018.6-5856., Science 335,
+2012.</span></span>
+
+\[52\] <span><span style="font-style:normal;">Fermi-LAT Collaboration et
+al.</span></span><span><span style="font-style:normal;">, Limits on
+large extra dimensions based on observations of neutron stars with the
+Fermi-LAT., jcap 2, 2012.</span></span>
+
+\[53\] <span><span style="font-style:normal;">P. L. Nolan et
+al.</span></span><span><span style="font-style:normal;">, Fermi Large
+Area Telescope Second Source Catalog., Astrophys. J.s 199,
+2012.</span></span>
+
+\[54\] <span><span style="font-style:normal;">H. J. Pletsch et
+al.</span></span><span><span style="font-style:normal;">, Binary
+Millisecond Pulsar Discovery via Gamma-Ray Pulsations., Science 338,
+2012.</span></span>
+
+\[55\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, The Second
+Fermi Large Area Telescope Catalog of Gamma-Ray Pulsars., Astrophys. J.s
+208, 2013.</span></span>
+
+\[56\] <span><span style="font-style:normal;">F. Acero et
+al.</span></span><span><span style="font-style:normal;">, Constraints on
+the Galactic Population of TeV Pulsar Wind Nebulae Using Fermi Large
+Area Telescope Observations., Astrophys. J. 773, 2013.</span></span>
+
+\[57\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The Fermi
+All-sky Variability Analysis: A List of Flaring Gamma-Ray Sources and
+the Search for Transients in Our Galaxy., Astrophys. J. 771,
+2013.</span></span>
+
+\[58\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Search for
+gamma-ray spectral lines with the Fermi Large Area Telescope and dark
+matter implications., Phys. Rev. D 88, 2013.</span></span>
+
+\[59\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Determination
+of the Point-spread Function for the Fermi Large Area Telescope from
+On-orbit Data and Limits on Pair Halos of Active Galactic Nuclei.,
+Astrophys. J. 765, 2013.</span></span>
+
+\[60\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The First
+Fermi-LAT Catalog of Sources above 10 GeV., Astrophys. J.s 209,
+2013.</span></span>
+
+\[61\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Detection of
+the Characteristic Pion-Decay Signature in Supernova Remnants., Science
+339, 2013.</span></span>
+
+\[62\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The First
+Fermi-LAT Gamma-Ray Burst Catalog., Astrophys. J.s 209,
+2013.</span></span>
+
+\[63\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">,
+Multiwavelength Observations of GRB 110731A: GeV Emission from Onset to
+Afterglow., Astrophys. J. 763, 2013.</span></span>
+
+\[64\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Associating
+Long-term Gamma-Ray Variability with the Superorbital Period of LS I
++61deg303., Astrophys. J.l 773, 2013.</span></span>
+
+\[65\] <span><span style="font-style:normal;">A. Allafort et
+al.</span></span><span><span style="font-style:normal;">, PSR J2021+4026
+in the Gamma Cygni Region: The First Variable Gamma-Ray Pulsar Seen by
+the Fermi LAT., Astrophys. J.l 777, 2013.</span></span>
+
+\[66\] <span><span style="font-style:normal;">S. Guiriec et
+al.</span></span><span><span style="font-style:normal;">, Evidence for a
+Photospheric Component in the Prompt Emission of the Short GRB 120323A
+and Its Effects on the GRB Hardness-Luminosity Relation., Astrophys. J.
+770, 2013.</span></span>
+
+\[67\] <span><span style="font-style:normal;">C. Kouveliotou et
+al.</span></span><span><span style="font-style:normal;">, NuSTAR
+Observations of GRB 130427A Establish a Single Component Synchrotron
+Afterglow Origin for the Late Optical to Multi-GeV Emission., Astrophys.
+J.l 779, 2013.</span></span>
+
+\[68\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Cosmic-Ray-induced Gamma-Ray Emission in Galaxy Clusters., Astrophys. J.
+787, 2014.</span></span>
+
+\[69\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, High-energy
+Gamma-Ray Emission from Solar Flares: Summary of Fermi Large Area
+Telescope Detections and Analysis of Two M-class Flares., Astrophys. J.
+787, 2014.</span></span>
+
+\[70\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Inferred
+Cosmic-Ray Spectrum from Fermi Large Area Telescope Gamma-Ray
+Observations of Earth's Limb., Phys. Rev. Lett. 112, 2014.</span></span>
+
+\[71\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi
+establishes classical novae as a distinct class of gamma-ray sources.,
+Science 345, 2014.</span></span>
+
+\[72\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Multifrequency
+Studies of the Peculiar Quasar 4C +21.35 during the 2010 Flaring
+Activity., Astrophys. J. 786, 2014.</span></span>
+
+\[73\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi-LAT
+Observations of the Gamma-Ray Burst GRB 130427A., Science 343,
+2014.</span></span>
+
+\[74\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Dark matter
+constraints from observations of 25 Gamma Way satellite galaxies with
+the Fermi Large Area Telescope., Phys. Rev. D 89, 2014.</span></span>
+
+\[75\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The Spectrum
+and Morphology of the Fermi Bubbles., Astrophys. J. 793,
+2014.</span></span>
+
+\[76\] <span><span style="font-style:normal;">M. Ajello et
+al.</span></span><span><span style="font-style:normal;">, Impulsive and
+Long Duration High-energy Gamma-Ray Emission from the Very Bright 2012
+March 7 Solar Flares., Astrophys. J. 789, 2014.</span></span>
+
+\[77\] <span><span style="font-style:normal;">S. Archambault et
+al.</span></span><span><span style="font-style:normal;">, Deep Broadband
+Observations of the Distant Gamma-Ray Blazar PKS 1424+240., Astrophys.
+J.l 785, 2014.</span></span>
+
+\[78\] <span><span style="font-style:normal;">G. Barbiellini et
+al.</span></span><span><span style="font-style:normal;">, Fermi Large
+Area Telescope Observations of Blazar 3C 279 Occultations by the Sun.,
+Astrophys. J. 784, 2014.</span></span>
+
+\[79\] <span><span style="font-style:normal;">J. M. Burgess et
+al.</span></span><span><span style="font-style:normal;">, Time-resolved
+Analysis of Fermi Gamma-Ray Bursts with Fast- and Slow-cooled
+Synchrotron Photon Models., Astrophys. J. 784, 2014.</span></span>
+
+\[80\] <span><span style="font-style:normal;">F. Longo et
+al.</span></span><span><span style="font-style:normal;">, Observations
+of Gamma-ray Bursts with the Fermi Large Area Telescope., Nuclear
+Instruments and Methods in Physics Research A 742, 2014.</span></span>
+
+\[81\] <span><span style="font-style:normal;">A. Maselli et
+al.</span></span><span><span style="font-style:normal;">, GRB 130427A: A
+Nearby Ordinary Monster., Science 343, 2014.</span></span>
+
+\[82\] <span><span style="font-style:normal;">L. Nava et
+al.</span></span><span><span style="font-style:normal;">, Clustering of
+LAT light curves: a clue to the origin of high-energy emission in
+gamma-ray bursts., Mon. Not. R. Astron. Soc.ras 443, 2014.</span></span>
+
+\[83\] <span><span style="font-style:normal;">R. Preece et
+al.</span></span><span><span style="font-style:normal;">, The First
+Pulse of the Extremely Bright GRB 130427A: A Test Lab for Synchrotron
+Shocks., Science 343, 2014.</span></span>
+
+\[84\] <span><span style="font-style:normal;">W. T. Vestrand et
+al.</span></span><span><span style="font-style:normal;">, The Bright
+Optical Flash and Afterglow from the Gamma-Ray Burst GRB 130427A.,
+Science 343, 2014.</span></span>
+
+\[85\] <span><span style="font-style:normal;">A. A. Abdo et
+al.</span></span><span><span style="font-style:normal;">, Gamma-Ray
+Flaring Activity from the Gravitationally Lensed Blazar PKS 1830-211
+Observed by Fermi LAT., Astrophys. J. 799, 2015.</span></span>
+
+\[86\] <span><span style="font-style:normal;">F. Acero et
+al.</span></span><span><span style="font-style:normal;">, Fermi Large
+Area Telescope Third Source Catalog., Astrophys. J.s 218,
+2015.</span></span>
+
+\[87\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Updated search
+for spectral lines from Galactic dark matter interactions with pass 8
+data from the Fermi Large Area Telescope., Phys. Rev. D 91,
+2015.</span></span>
+
+\[88\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">,
+Multiwavelength Evidence for Quasi-periodic Modulation in the Gamma-Ray
+Blazar PG 1553+113., Astrophys. J.l 813, 2015.</span></span>
+
+\[89\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The Spectrum
+of Isotropic Diffuse Gamma-Ray Emission between 100 MeV and 820 GeV.,
+Astrophys. J. 799, 2015.</span></span>
+
+\[90\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Extended Gamma-Ray Emission from the Virgo Galaxy Cluster with
+FERMI-LAT., Astrophys. J. 812, 2015.</span></span>
+
+\[91\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The Third
+Catalog of Active Galactic Nuclei Detected by the Fermi Large Area
+Telescope., Astrophys. J. 810, 2015.</span></span>
+
+\[92\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Searching for
+Dark Matter Annihilation from Milky Way Dwarf Spheroidal Galaxies with
+Six Years of Fermi Large Area Telescope Data., Phys. Rev. Lett. 115,
+2015.</span></span>
+
+\[93\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Early Gamma-ray Production in Supernovae Located in a Dense
+Circumstellar Medium with the Fermi LAT., Astrophys. J. 807,
+2015.</span></span>
+
+\[94\] <span><span style="font-style:normal;">C. J. Clark et
+al.</span></span><span><span style="font-style:normal;">, PSR
+J1906+0722: An Elusive Gamma-Ray Pulsar., Astrophys. J.l 809,
+2015.</span></span>
+
+\[95\] <span><span style="font-style:normal;">Fermi LAT Collaboration et
+al.</span></span><span><span style="font-style:normal;">, An extremely
+bright gamma-ray pulsar in the Large Magellanic Cloud., Science 350,
+2015.</span></span>
+
+\[96\] <span><span style="font-style:normal;">B. P. Abbott et
+al.</span></span><span><span style="font-style:normal;">, Localization
+and Broadband Follow-up of the Gravitational-wave Transient GW150914.,
+Astrophys. J.l 826, 2016.</span></span>
+
+\[97\] <span><span style="font-style:normal;">F. Acero et
+al.</span></span><span><span style="font-style:normal;">, Development of
+the Model of Galactic Interstellar Emission for Standard Point-source
+Analysis of Fermi Large Area Telescope Data., Astrophys. J.s 223,
+2016.</span></span>
+
+\[98\] <span><span style="font-style:normal;">F. Acero et
+al.</span></span><span><span style="font-style:normal;">, The First
+Fermi LAT Supernova Remnant Catalog., Astrophys. J.s 224,
+2016.</span></span>
+
+\[99\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi-LAT
+Observations of the LIGO Event GW150914., Astrophys. J.l 823,
+2016.</span></span>
+
+\[100\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Gamma-Ray Emission from the Coma Cluster with Six Years of Fermi-LAT
+Data., Astrophys. J. 819, 2016.</span></span>
+
+\[101\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Resolving the
+Extragalactic Gamma-Ray Background above 50 GeV with the Fermi Large
+Area Telescope., Phys. Rev. Lett. 116, 2016.</span></span>
+
+\[102\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Measurement of
+the high-energy gamma-ray emission from the Moon with the Fermi Large
+Area Telescope., Phys. Rev. D 93, 2016.</span></span>
+
+\[103\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">,
+Contemporaneous Broadband Observations of Three High-redshift BL LAC
+Objects., Astrophys. J. 820, 2016.</span></span>
+
+\[104\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi LAT
+Stacking Analysis of Swift Localized GRBs., Astrophys. J. 822,
+2016.</span></span>
+
+\[105\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, 2FHL: The
+Second Catalog of Hard Fermi-LAT Sources., Astrophys. J.s 222,
+2016.</span></span>
+
+\[106\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi Large
+Area Telescope Detection of Extended Gamma-Ray Emission from the Radio
+Galaxy Fornax A., Astrophys. J. 826, 2016.</span></span>
+
+\[107\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Deep view of
+the Large Magellanic Cloud with six years of Fermi-LAT observations.,
+Astron. Astrophys. 586, 2016.</span></span>
+
+\[108\] <span><span style="font-style:normal;">M. Ajello et
+al.</span></span><span><span style="font-style:normal;">, Fermi-LAT
+Observations of High-Energy Gamma-Ray Emission toward the Galactic
+Center., Astrophys. J. 819, 2016.</span></span>
+
+\[109\] <span><span style="font-style:normal;">M. Ajello et
+al.</span></span><span><span style="font-style:normal;">, Deep
+Morphological and Spectral Study of the SNR RCW 86 with Fermi-LAT.,
+Astrophys. J. 819, 2016.</span></span>
+
+\[110\] <span><span style="font-style:normal;">D. Pizzocaro et
+al.</span></span><span><span style="font-style:normal;">, Results from
+DROXO. IV. EXTraS discovery of an X-ray flare from the Class I protostar
+candidate ISO-Oph 85., Astron. Astrophys. 587, 2016.</span></span>
+
+\[111\] <span><span style="font-style:normal;">B. P. Abbott et
+al.</span></span><span><span style="font-style:normal;">,
+Multi-messenger Observations of a Binary Neutron Star Merger.,
+Astrophys. J.l 848, 2017.</span></span>
+
+\[112\] <span><span style="font-style:normal;">S. Abdollahi et
+al.</span></span><span><span style="font-style:normal;">, The Second
+Catalog of Flaring Gamma-Ray Sources from the Fermi All-sky Variability
+Analysis., Astrophys. J. 846, 2017.</span></span>
+
+\[113\] <span><span style="font-style:normal;">A. U. Abeysekara et
+al.</span></span><span><span style="font-style:normal;">, Daily
+Monitoring of TeV Gamma-Ray Emission from Mrk 421, Mrk 501, and the Crab
+Nebula with HAWC., Astrophys. J. 841, 2017.</span></span>
+
+\[114\] <span><span style="font-style:normal;">A. U. Abeysekara et
+al.</span></span><span><span style="font-style:normal;">, The 2HWC HAWC
+Observatory Gamma-Ray Catalog., Astrophys. J. 843, 2017.</span></span>
+
+\[115\] <span><span style="font-style:normal;">A. U. Abeysekara et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Very High-energy Gamma Rays from the Northern Fermi Bubble Region with
+HAWC., Astrophys. J. 842, 2017.</span></span>
+
+\[116\] <span><span style="font-style:normal;">A. U. Abeysekara et
+al.</span></span><span><span style="font-style:normal;">, The HAWC
+Real-time Flare Monitor for Rapid Detection of Transient Events.,
+Astrophys. J. 843, 2017.</span></span>
+
+\[117\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, The Fermi
+Galactic Center GeV Excess and Implications for Dark Matter., Astrophys.
+J. 840, 2017.</span></span>
+
+\[118\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Gamma-Ray
+Blazars within the First 2 Billion Years., Astrophys. J.l 837,
+2017.</span></span>
+
+\[119\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Extended Sources in the Galactic Plane Using Six Years of Fermi-Large
+Area Telescope Pass 8 Data above 10 GeV., Astrophys. J. 843,
+2017.</span></span>
+
+\[120\] <span><span style="font-style:normal;">M. Ackermann et
+al.</span></span><span><span style="font-style:normal;">, Fermi-LAT
+Observations of High-energy Behind-the-limb Solar Flares., Astrophys. J.
+835, 2017.</span></span>
+
+\[121\] <span><span style="font-style:normal;">M. Ajello et
+al.</span></span><span><span style="font-style:normal;">, 3FHL: The
+Third Catalog of Hard Fermi-LAT Sources., Astrophys. J.s 232,
+2017.</span></span>
+
+\[122\] <span><span style="font-style:normal;">R. Alfaro et
+al.</span></span><span><span style="font-style:normal;">, Search for
+Very-high-energy Emission from Gamma-Ray Bursts Using the First 18
+Months of Data from the HAWC Gamma-Ray Observatory., Astrophys. J. 843,
+2017.</span></span>
+
+\[123\] <span><span style="font-style:normal;">A. Goldstein et
+al.</span></span><span><span style="font-style:normal;">, Fermi
+Observations of the LIGO Event GW170104., Astrophys. J.l 846,
+2017.</span></span>
+
+\[124\] <span><span style="font-style:normal;">H.E.S.S.\~Collaboration
+et al.</span></span><span><span style="font-style:normal;">, Gamma-ray
+blazar spectra with H.E.S.S. II mono analysis: The case of PKS 2155-304
+and PG 1553+113., Astron. Astrophys. 600, 2017.</span></span>
+
+\[125\] <span><span style="font-style:normal;">L. Nava et
+al.</span></span><span><span style="font-style:normal;">, Constraints on
+the bulk Lorentz factor of gamma-ray burst jets from Fermi /LAT upper
+limits., Mon. Not. R. Astron. Soc.ras 465, 2017.</span></span>
+
+\[126\] <span><span style="font-style:normal;">F. Pintore et
+al.</span></span><span><span style="font-style:normal;">, The effect of
+X-ray dust scattering on a bright burst from the magnetar 1E
+1547.0-5408., Mon. Not. R. Astron. Soc.ras 467, 2017.</span></span>
+
+\[127\] <span><span style="font-style:normal;">F. Pintore et
+al.</span></span><span><span style="font-style:normal;">, Behind the
+dust curtain: the spectacular case of GRB 160623A., Mon. Not. R. Astron.
+Soc.ras 472, 2017.</span></span>
+
+\[128\] <span><span style="font-style:normal;">J. L. Racusin et
+al.</span></span><span><span style="font-style:normal;">, Searching the
+Gamma-Ray Sky for Counterparts to Gravitational Wave Sources: /Fermi GBM
+and LAT Observations of LVT151012 and GW151226., Astrophys. J. 835,
+2017.</span></span>
+
+\[129\] G. Vianello, N. Omodei, J. Chiang and S. Digel, Searching for
+High-energy Gamma-ray Counterparts to Gravitational-wave Sources with
+Fermi-LAT: A Needle in a Haystack., Astrophys. J.l 841, 2017.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+<div class="section section-1504453849308">
+
+Hobbies {#hobbies .title}
+-------
+
+<div class="set">
+
+<div class="item">
+
+<span class="info"></span>
+-   Learning about new frontiers in machine learning
+-   <span>Playing acoustic and electric guitar</span>
+-   <span>Climbing indoor and outdoor</span>
+-   <span>Fixing my cars</span>
+
+</div>
+
+</div>
+
+<div class="clear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="credit">
+
+Made with [CV Maker](https://cvmkr.com/)
+
+</div>
