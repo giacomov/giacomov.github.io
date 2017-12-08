@@ -1,6 +1,6 @@
 # Contact
 
-* E-mail: <a href="mailto:giacomov@stanford.edu">giacomov@stanford.edu</a></div>
+* E-mail: <a href="mailto:giacomov@stanford.edu">giacomov@stanford.edu</a>
 
 * Address: 452 Lomita Mall, Stanford, CA 94305, United States
 
