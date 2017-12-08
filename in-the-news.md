@@ -12,4 +12,4 @@ This is a collection of news related to my research.
 
 * [The rise of LIGO's space-studying super-team](http://www.symmetrymagazine.org/article/the-rise-of-ligos-space-studying-super-team), Symmetry magazine, June 27th 2017
 
-* [Software in development at Stanford advances the modeling of astronomical observations](http://www.symmetrymagazine.org/article/the-rise-of-ligos-space-studying-super-team), Stanford News, December 7, 2017
+* [Software in development at Stanford advances the modeling of astronomical observations](https://news.stanford.edu/2017/12/07/software-advances-modeling-astronomical-observations/), Stanford News, December 7, 2017
