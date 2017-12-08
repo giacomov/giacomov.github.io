@@ -6,7 +6,7 @@ Bayesian analysis of multi-wavelength, multi-messenger datasets.
 2. [gtburst](https://github.com/giacomov/gtburst) is a software for the analysis of the data from the [Fermi Gamma-Ray Space Telescope](https://www.nasa.gov/content/fermi-gamma-ray-space-telescope).
 It works around a Graphical User Interface (GUI) and it is part of the official [Fermi Science Tools](https://fermi.gsfc.nasa.gov/ssc/data/analysis/software/)
 
-3, The Fermi Gravitational Waves toolkit ([fermi_gw_toolkit](https://github.com/giacomov/fermi_gw_toolkit)) is a software for the search of Gravitational Waves counterparts in the data of the
+3. The Fermi Gravitational Waves toolkit ([fermi_gw_toolkit](https://github.com/giacomov/fermi_gw_toolkit)) is a software for the search of Gravitational Waves counterparts in the data of the
 [Fermi Gamma-Ray Space Telescope](https://www.nasa.gov/content/fermi-gamma-ray-space-telescope).
 It is described in [this paper](http://iopscience.iop.org/article/10.3847/2041-8213/aa7262/meta) of mine.
 
