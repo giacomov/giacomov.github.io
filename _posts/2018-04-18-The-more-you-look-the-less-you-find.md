@@ -1,7 +1,3 @@
-
-<h1 id="tocheading">Table of Contents</h1>
-<div id="toc"></div>
-
 # Multiple hypothesis testing, or "the more you look the less you find"
 
 In this post I study different methods of correcting for multiple hypothesis testing, which occurs often in practice when searching for anomalies in multiple datasets or for example when making catalogs in Astronomy.
@@ -313,7 +309,7 @@ n_false = 50
 
 
 
-![png](The-more-you-look-the-less-you-find_files/The-more-you-look-the-less-you-find_28_2.png)
+![png](/images/The-more-you-look-the-less-you-find_files/The-more-you-look-the-less-you-find_28_2.png)
 
 
 We can see that the purity of the output sample is constant to 1.0, but the completeness is small and it also falls very quickly as the number of tests increases. In other words, we are detecting less and less anomalies as $m$ increases but the ones we detect are always correct. The type I error probability of detecting *any* false positive is below the declared $\alpha$ level always, although very conservatively so for small $m$.
@@ -363,7 +359,7 @@ n_false = 50
 
 
 
-![png](The-more-you-look-the-less-you-find_files/The-more-you-look-the-less-you-find_31_2.png)
+![png](/images/The-more-you-look-the-less-you-find_files/The-more-you-look-the-less-you-find_31_2.png)
 
 
 The new methods conserve the absolute purity of the vanilla Bonferroni and a type I error below or at the nominal value, but improve a little bit the completeness. However, we can do a lot better than this! Let's see how.
@@ -411,7 +407,7 @@ n_false = 50
 
 
 
-![png](The-more-you-look-the-less-you-find_files/The-more-you-look-the-less-you-find_34_1.png)
+![png](/images/The-more-you-look-the-less-you-find_files/The-more-you-look-the-less-you-find_34_1.png)
 
 
 We can immediately see that the BH method provides a much larger Recall ("completeness", second panel) by sacrificing a controlled amount  of Precision ("purity"). Indeed, as promised the Precision is $> 1-\alpha$. Going from $\alpha = 0.01$ to $\alpha = 0.05$ in the BH method increases as expected the purity but decreases the completeness. Also, the global $\alpha$ (bottom panel) for the BH method is large and close to 1, which means that in any experiment there is a high probability of getting one or more false positives. This is the price to pay for increasing the completeness, where we gain almost a factor of 2 especially for large and very large number of tests $m$ with respect to Bonferroni-like methods.
@@ -441,7 +437,7 @@ Up to now we have studied the case where the number of false null hypothesis is 
 
 
 
-![png](The-more-you-look-the-less-you-find_files/The-more-you-look-the-less-you-find_36_1.png)
+![png](/images/The-more-you-look-the-less-you-find_files/The-more-you-look-the-less-you-find_36_1.png)
 
 
 Results are similar as before, but now the completeness for the BH method is essentially constant independently of $m$.
