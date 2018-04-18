@@ -1,10 +1,23 @@
 # Multiple hypothesis testing, or "the more you look the less you find"
 
+Table of contents:
+
+   * [Multiple hypothesis testing, or "the more you look the less you find"](#multiple-hypothesis-testing-or-the-more-you-look-the-less-you-find)
+      * [Our toy problem](#our-toy-problem)
+      * [Simple case: one test](#simple-case-one-test)
+      * [Multiple tests](#multiple-tests)
+      * [Bonferroni / Sidak correction](#bonferroni--sidak-correction)
+      * [Issues with Bonferroni-like corrections: Global vs local hypothesis](#issues-with-bonferroni-like-corrections-global-vs-local-hypothesis)
+      * [The Holm-Sidak method](#the-holm-sidak-method)
+      * [False Discovery Rate vs Family-Wise Error Rate](#false-discovery-rate-vs-family-wise-error-rate)
+      * [Conclusion](#conclusion)
+   * [Code](#code)
+
 In this post I study different methods of correcting for multiple hypothesis testing, which occurs often in practice when searching for anomalies in multiple datasets or for example when making catalogs in Astronomy.
 
 Let's start from the basics and illustrate what does it mean to have multiple tests.
 
-> NOTE: if you are running this notebook, first you need to execute the last cell, which contains the helper code
+> NOTE: this notebook is available for download in my [GitHub repository](https://github.com/giacomov/giacomov.github.io/tree/master/notebooks). If you have suggestion/edits, feel free to open an issue or send a pull request there. _If you are running this notebook_, first you need to execute the last cell, which contains the helper code
 
 In this post I assume familiarity with some concepts, in particular statistical tests, null vs alternative hypothesis, p-value, type I error and type II errors. If you need a refresher, look in your favorite textbook or on [Wikipedia](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors).
 
