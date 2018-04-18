@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://giacomov.github.io" # the base hostname & protocol for your site
 github_username:  giacomov
+linkedin_username: giacomovianello
 permalink: /:title/ #/blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
@@ -16,3 +17,5 @@ markdown: kramdown
 mathjax: true
 #theme: jekyll-theme-tactile
 theme: minima
+disqus:
+  shortname: giacomov-github-io
