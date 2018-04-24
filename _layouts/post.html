@@ -18,12 +18,19 @@ layout: default
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
   </script>
   
-  <script type="text/javascript">
-  
-  [].forEach.call(document.getElementsByTagName("code"), function (el) {
-  el.style.visibility = 'hidden';
-  });
-  </script>
+<script type="text/javascript">
+  function toggleCode() {
+      [].forEach.call(document.getElementsByTagName("code"), function (x) {
+          
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+         
+         }) 
+  }
+</script>
   
   <script type="text/x-mathjax-config">
   
@@ -40,6 +47,11 @@ layout: default
   <div class="post-content" itermpro="commentSuggestion">
   <img height=30 align="center" src="/images/pointing_hand.png"> Feel free to post comments in the Comments section at the end.
   </div>
+  
+  <div class="post-content">
+  <button onclick="toggleCode()" align="center">Hide/show code</button>
+  </div>
+  
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
