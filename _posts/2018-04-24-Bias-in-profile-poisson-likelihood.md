@@ -1,5 +1,5 @@
 
-# Bias in the profile Poisson likelihood
+# When the profile likelihood breaks down
 
 > You can find an interactive version of this Jupyter notebook in my [github](https://github.com/giacomov/giacomov.github.io/tree/master/notebooks)
 
