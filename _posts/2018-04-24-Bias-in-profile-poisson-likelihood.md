@@ -85,7 +85,7 @@ display(res)
 ```
 
 
-$$\left [ \left ( \frac{1}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} - \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right)\right ), \quad \left ( \frac{1}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} + \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right)\right )\right ]$$
+$$\left [ \left ( \frac{1}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} \\ - \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right)\right ), \\ \quad \left ( \frac{1}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} \\ + \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right)\right )\right ]$$
 
 
 Of the two solutions, we take the second one which is positive (the expected background cannot be negative):
@@ -100,25 +100,11 @@ bi_mle.factor().simplify()
 
 
 
-$$\frac{1}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} + \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right)$$
+$$\frac{1}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} \\ + \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right)$$
 
 
 
-We can now substitute it into the equation of the log likelihood. However, it becomes a very long expression:
-
-
-```python
-L.subs(bi, bi_mle)
-```
-
-
-
-
-$$- m_{i} t_{s} - \frac{t_{b}}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} + \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right) - \frac{t_{s}}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} + \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right) + \log{\left (t_{b}^{B_{i}} \left(t_{s} \left(m_{i} + \frac{1}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} + \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right)\right)\right)^{S_{i}} \left(\frac{1}{2 \left(t_{b} + t_{s}\right)} \left(B_{i} + S_{i} - m_{i} t_{b} - m_{i} t_{s} + \sqrt{B_{i}^{2} + 2 B_{i} S_{i} + 2 B_{i} m_{i} t_{b} + 2 B_{i} m_{i} t_{s} + S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 2 m_{i}^{2} t_{b} t_{s} + m_{i}^{2} t_{s}^{2}}\right)\right)^{B_{i}} \right )} - \log{\left (B_{i}! \right )} - \log{\left (S_{i}! \right )}$$
-
-
-
-Instead, we will simply compute the numerical value for $b_i$ first and then plug that into the log likelihood.
+We can now substitute it into the equation of the log likelihood. However, it becomes a very long expression. Instead, we will simply compute the numerical value for $b_i$ first and then plug that into the log likelihood.
 
 > All the code used in the following is implemented in the last cell of this notebook. Execute that first if you are running the notebook interactively.
 
@@ -196,14 +182,6 @@ for i, (sub, n_bins) in enumerate(zip(subs.flatten(),
 fig.tight_layout()
 ```
 
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-
-
 
 ![png](/images/Bias-in-profile-poisson-likelihood_files/Bias-in-profile-poisson-likelihood_21_1.png)
 
@@ -240,9 +218,9 @@ $$S_{i}^{2} - 2 S_{i} m_{i} t_{b} - 2 S_{i} m_{i} t_{s} + m_{i}^{2} t_{b}^{2} + 
 
 
 
-so if $B_{i}=0$ then $b_i=0$ independently of $m_i$ and $S_i$. This is unphysical (the background cannot be zero, and also violates the assumptions we started from because the rate parameter of a Poisson distribution cannot be zero). Essentially, there is little to no information about the background when this happens and the formulation of the problem breaks down. As we have just seen, this introduces a bias which becomes more and more severe as the number of bins where this happens increase.
+so if $B_{i}=0$ then $b_i=0$ independently of $m_i$ and $S_i$. This is unphysical (the background cannot be zero, and also violates the assumptions we started from because the rate parameter of a Poisson distribution cannot be zero). Essentially, there is little to no information about the background when this happens and the formulation of the problem breaks down. As we have just seen, this introduces a bias which becomes more and more severe as the number of bins where this happens increases.
 
-If this is the case, then a simple countermeasure is to rebin the spectra so that there is at least some background counts in each bin. Let's see if this solves the problem:
+A simple countermeasure is to rebin the spectra so that there is at least some background counts in each bin. Let's see if this solves the problem:
 
 
 ```python
@@ -285,26 +263,6 @@ _ = subs[-1][-1].set_ylim([0, 650])
 
 _ = subs[0][0].legend(loc=0)
 ```
-
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-
 
 
 ![png](/images/Bias-in-profile-poisson-likelihood_files/Bias-in-profile-poisson-likelihood_28_1.png)
@@ -353,14 +311,6 @@ for i, (sub, n_bins) in enumerate(zip(subs.flatten(),
 
 _ = subs[0][0].legend(loc=0)
 ```
-
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-    16000 of 16000 completed
-
 
 
 ![png](/images/Bias-in-profile-poisson-likelihood_files/Bias-in-profile-poisson-likelihood_31_1.png)
