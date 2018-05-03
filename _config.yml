@@ -2,7 +2,8 @@
 title: Giacomo Vianello
 email: giacomov@stanford.edu
 description: > # this means to ignore newlines until "baseurl:"
-  My personal website.
+  Personal website of Giacomo Vianello. I talk about statistical methods for
+  Astronomy/Astrophysics as well as data science topics.
  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://giacomov.github.io" # the base hostname & protocol for your site
@@ -19,3 +20,4 @@ mathjax: true
 theme: minima
 disqus:
   shortname: giacomov-github-io
+google_analytics: UA-118662765-1
