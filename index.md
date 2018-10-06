@@ -2,7 +2,7 @@
 layout: default
 ---
 
-|<img src="/images/avatar.jpg" alt="avatar" style="width: 100px;"/>|[Academic CV with publications](docs/GiacomoVianello_Nov2017.pdf)|
+|<img src="/images/avatar.jpg" alt="avatar" style="width: 100px;"/>|[Academic CV with publications](docs/GiacomoVianello_Sep18.pdf)|
 
 # Research interests
 
